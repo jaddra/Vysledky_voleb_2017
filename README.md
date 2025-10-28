@@ -33,11 +33,13 @@ Příklad spuštění
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
 
 Agrument 1: "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
+
 Argument 2: "vysledky_prostejov.csv"
 
 Průběh
 
 ✅ Argumenty v pořádku.
+
 ✅ Data byla úspěšně uložena do 'vysledky_prostejov.csv'.
 
 Částečný výstup
